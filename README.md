@@ -45,6 +45,6 @@ A evasão de clientes é um dos maiores ralos de receita no setor de telecomunic
 
 ## ✒️ Autor
 
-**Mateus Rodrigues de Oliveira**
-*Implementador TOTVS RM e entusiasta de Análise de Dados.*
+**Mateus Rodrigues de Oliveira 🦖​**
+
 
